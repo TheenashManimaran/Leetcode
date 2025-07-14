@@ -15,4 +15,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [2580-circular-sentence](https://github.com/TheenashManimaran/Leetcode/tree/master/2580-circular-sentence) |
 <!---LeetCode Topics End-->

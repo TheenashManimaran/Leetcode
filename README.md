@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TheenashManimaran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TheenashManimaran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

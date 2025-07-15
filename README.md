@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/TheenashManimaran/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/TheenashManimaran/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |

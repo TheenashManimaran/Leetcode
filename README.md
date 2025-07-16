@@ -23,6 +23,7 @@
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheenashManimaran/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/TheenashManimaran/Leetcode/tree/master/2580-circular-sentence) |
+| [3396-valid-word](https://github.com/TheenashManimaran/Leetcode/tree/master/3396-valid-word) |
 ## Two Pointers
 |  |
 | ------- |

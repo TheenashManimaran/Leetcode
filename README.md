@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/TheenashManimaran/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TheenashManimaran/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/TheenashManimaran/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TheenashManimaran/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |

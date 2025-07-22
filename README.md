@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TheenashManimaran/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TheenashManimaran/Leetcode/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

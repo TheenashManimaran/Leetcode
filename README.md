@@ -11,6 +11,7 @@
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/TheenashManimaran/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |

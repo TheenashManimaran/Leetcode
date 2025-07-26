@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TheenashManimaran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3830-find-closest-person](https://github.com/TheenashManimaran/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |

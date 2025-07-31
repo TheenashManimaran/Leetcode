@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/TheenashManimaran/Leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheenashManimaran/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |

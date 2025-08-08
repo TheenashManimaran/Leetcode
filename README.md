@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TheenashManimaran/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TheenashManimaran/Leetcode/tree/master/0051-n-queens) |
@@ -85,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |

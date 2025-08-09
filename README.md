@@ -14,6 +14,7 @@
 | [0119-pascals-triangle-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/TheenashManimaran/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -105,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

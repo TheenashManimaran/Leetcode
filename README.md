@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TheenashManimaran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3830-find-closest-person](https://github.com/TheenashManimaran/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

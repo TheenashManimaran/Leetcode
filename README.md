@@ -18,6 +18,7 @@
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
@@ -33,6 +34,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## String
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->

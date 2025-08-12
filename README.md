@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TheenashManimaran/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TheenashManimaran/Leetcode/tree/master/0046-permutations) |
@@ -38,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TheenashManimaran/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/TheenashManimaran/Leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TheenashManimaran/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -28,18 +28,39 @@ public:
         return dp[ind] = min(step1, step2);
     }
 
+    int tabulate(int base, int n, vector<int> &cost, vector<int>&dp){
+        dp[0] = cost[0];
+        dp[1] = cost[1];
 
+        for(int i=2;i<n;i++){
+            int step1 = dp[i-1] + cost[i];
+            int step2 = INT_MAX;
+            if(i - 2 >= 0){
+                step2 = dp[i-2] + cost[i];
+            }
+            else step2 = cost[i];
+            dp[i] = min(step1 , step2);
+        }
+
+        return min(dp[n-1],dp[n-2]);
+    }
 
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
 
         vector<int> dp(n,-1);
         
-        int startWith0 = funcWith0(0, cost, n,dp);
+        // int startWith0 = funcWith0(0, cost, n,dp);
 
-        for(auto &i : dp) i = -1;
+        // for(auto &i : dp) i = -1;
 
-        int startWith1 = funcWith1(1,cost,n,dp);
+        // int startWith1 = funcWith1(1,cost,n,dp);
+
+        int startWith0 = tabulate(0,n, cost,dp);
+
+        for(auto &i: dp) i = -1;
+        int startWith1 = tabulate(1,n,cost,dp);
+        
 
         return min(startWith0, startWith1);
     }

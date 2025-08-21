@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheenashManimaran/Leetcode/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TheenashManimaran/Leetcode/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

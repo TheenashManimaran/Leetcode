@@ -53,6 +53,26 @@ public:
         return dp[m-1][n-1];
     }
 
+    int spaceOpt(int m, int n, vector<vector<int>> &mat){
+        vector<int> prev(n);
+        for(int i=0;i<m;i++){
+            vector<int> temp(n);
+            for(int j=0;j<n;j++){
+                if(mat[i][j] == 1) temp[j] = 0;
+                else if(i == 0 && j == 0) temp[j] = 1;
+                else{
+                    int left = 0, up = 0;
+                    if(j > 0) left = temp[j-1];
+                    if(i > 0) up = prev[j];
+                    temp[j] = left + up;
+                }
+            }
+            prev = temp;
+        }
+
+        return prev[n-1];
+    }
+
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
@@ -63,6 +83,8 @@ public:
 
         //return memoize(m-1, n-1, obstacleGrid, dp);
 
-        return tabulate(m, n, obstacleGrid, dp);
+        //return tabulate(m, n, obstacleGrid, dp);
+
+        return spaceOpt(m, n, obstacleGrid);
     }
 };

@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TheenashManimaran/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TheenashManimaran/Leetcode/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -116,6 +118,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Segment Tree
 |  |

@@ -24,9 +24,6 @@ public:
             }
             
         }
-
-        cout<<startrow <<" "<< startcol <<endl;
-        cout<<endrow <<" "<< endcol <<endl;
         int area = (endrow - startrow + 1) * (endcol - startcol + 1);
 
         return area;

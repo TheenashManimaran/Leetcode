@@ -26,6 +26,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/TheenashManimaran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
@@ -120,6 +121,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Segment Tree
 |  |
 | ------- |

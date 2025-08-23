@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TheenashManimaran/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0213-house-robber-ii) |
 | [0485-max-consecutive-ones](https://github.com/TheenashManimaran/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheenashManimaran/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheenashManimaran/Leetcode/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1236-n-th-tribonacci-number) |

@@ -24,6 +24,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TheenashManimaran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -126,6 +127,7 @@
 | [0063-unique-paths-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Segment Tree
 |  |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Trie
 |  |

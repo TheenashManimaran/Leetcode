@@ -20,6 +20,7 @@
 | [0213-house-robber-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0213-house-robber-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/TheenashManimaran/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
@@ -127,6 +128,7 @@
 | [0063-unique-paths-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Segment Tree
@@ -136,6 +138,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set

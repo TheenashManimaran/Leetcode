@@ -27,6 +27,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TheenashManimaran/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TheenashManimaran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |

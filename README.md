@@ -25,6 +25,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TheenashManimaran/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -75,11 +76,13 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
@@ -92,6 +95,7 @@
 | [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheenashManimaran/Leetcode/tree/master/0326-power-of-three) |
+| [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1236-n-th-tribonacci-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TheenashManimaran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1448-maximum-69-number) |
@@ -178,4 +182,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Geometry
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 <!---LeetCode Topics End-->

@@ -42,13 +42,6 @@ public:
             }   
         }
 
-        for(auto i: grid){
-            for(auto j: i){
-                cout<<j<<" ";
-            }
-            cout<<endl;
-        }
-
         return grid;
 
     }

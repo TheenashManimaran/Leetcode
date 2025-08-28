@@ -34,6 +34,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/TheenashManimaran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
@@ -84,6 +85,7 @@
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3748-sort-matrix-by-diagonals](https://github.com/TheenashManimaran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/TheenashManimaran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Segment Tree
 |  |
 | ------- |

@@ -56,6 +56,7 @@
 | [0014-longest-common-prefix](https://github.com/TheenashManimaran/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/TheenashManimaran/Leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TheenashManimaran/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheenashManimaran/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->

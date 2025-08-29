@@ -20,6 +20,7 @@
 | [0213-house-robber-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0213-house-robber-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/TheenashManimaran/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -173,6 +175,7 @@
 | [0020-valid-parentheses](https://github.com/TheenashManimaran/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/TheenashManimaran/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/TheenashManimaran/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 ## Prefix Sum
 |  |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/TheenashManimaran/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

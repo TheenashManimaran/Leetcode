@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TheenashManimaran/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/TheenashManimaran/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/TheenashManimaran/Leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -169,6 +170,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TheenashManimaran/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 ## Prefix Sum
 |  |

@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheenashManimaran/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/TheenashManimaran/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 ## Prefix Sum
 |  |
@@ -189,6 +190,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/TheenashManimaran/Leetcode/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Geometry
 |  |

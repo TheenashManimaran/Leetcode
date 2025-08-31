@@ -22,8 +22,6 @@ public:
                     nums.insert(nums.begin() + 1, 0);
                 }
             }
-            for(int i: nums) cout<<i<<" ";
-            cout<<endl;
             long long places = 1;
             
             for(int i=nums.size() -1; i>=0 ;i--){
@@ -38,9 +36,6 @@ public:
                     nums.push_back(0);
                 }
             }
-
-            for(int i: nums) cout<<i<<" ";
-            cout<<endl;
             long long places = 1;
             
             for(int i=nums.size() -1; i>=0 ;i--){

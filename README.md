@@ -31,6 +31,7 @@
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TheenashManimaran/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/TheenashManimaran/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TheenashManimaran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/TheenashManimaran/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3748-sort-matrix-by-diagonals](https://github.com/TheenashManimaran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List

@@ -112,6 +112,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/TheenashManimaran/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TheenashManimaran/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TheenashManimaran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -188,6 +189,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/TheenashManimaran/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheenashManimaran/Leetcode/tree/master/0326-power-of-three) |
 ## Memoization

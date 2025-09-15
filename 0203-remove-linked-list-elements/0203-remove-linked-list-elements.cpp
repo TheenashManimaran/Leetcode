@@ -13,7 +13,6 @@ public:
     ListNode* removeElements(ListNode* head, int val) {
 
         while(head != NULL && head->val == val){
-            cout<<head->val<<" ";
             head = head->next;
         }
         if(head == NULL) return NULL;
@@ -27,7 +26,6 @@ public:
                 mover = mover->next;
                 continue;
             }
-            cout<<mover->val<<" ";
             prev = mover;
             mover = mover->next;
         }

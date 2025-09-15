@@ -67,6 +67,7 @@
 | [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/TheenashManimaran/Leetcode/tree/master/0344-reverse-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/TheenashManimaran/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TheenashManimaran/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheenashManimaran/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/TheenashManimaran/Leetcode/tree/master/2580-circular-sentence) |
@@ -96,6 +97,7 @@
 | [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/TheenashManimaran/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TheenashManimaran/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

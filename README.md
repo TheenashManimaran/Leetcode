@@ -116,6 +116,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TheenashManimaran/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/TheenashManimaran/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TheenashManimaran/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TheenashManimaran/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -125,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TheenashManimaran/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
@@ -196,6 +198,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TheenashManimaran/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/TheenashManimaran/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TheenashManimaran/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |

@@ -31,6 +31,7 @@
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/TheenashManimaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TheenashManimaran/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TheenashManimaran/Leetcode/tree/master/0011-container-with-most-water) |
+| [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1448-maximum-69-number) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheenashManimaran/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/TheenashManimaran/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/TheenashManimaran/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -133,6 +136,7 @@
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheenashManimaran/Leetcode/tree/master/0326-power-of-three) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TheenashManimaran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/TheenashManimaran/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |

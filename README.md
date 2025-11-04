@@ -134,6 +134,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TheenashManimaran/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheenashManimaran/Leetcode/tree/master/0326-power-of-three) |
@@ -154,6 +155,7 @@
 | [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/TheenashManimaran/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -217,6 +219,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |

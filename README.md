@@ -45,6 +45,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/TheenashManimaran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/TheenashManimaran/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/TheenashManimaran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TheenashManimaran/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/TheenashManimaran/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |

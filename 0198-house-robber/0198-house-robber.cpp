@@ -1,37 +1,28 @@
 class Solution {
 public:
-    // Tabulation
-
-    int solve(int ind, vector<int> &nums, vector<int> &dp){
-        if(ind == 0) return nums[ind];
-        if(ind < 0) return 0;
-        if(dp[ind] != -1) return dp[ind];
-
-
-        int take = nums[ind] + solve(ind-2, nums, dp);
-
-        int notTake = 0 + solve(ind-1, nums, dp);
-
-        return dp[ind] = max(take, notTake);
-    }
+    // Space Optimization
 
     int rob(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> dp(n, 0);
-        dp[0] = nums[0];
+        int prev2 = nums[0];
+        int prev = nums[0];
+        int cur;
 
         for(int i=1;i<n;i++){
             
             int take = nums[i];
-            if(i - 2 >= 0) take += dp[i-2];
+            if(i - 2 >= 0) take += prev2;
 
-            int notTake = 0 + dp[i-1];
+            int notTake = 0 + prev;
 
-            dp[i] = max(take, notTake);
+            cur = max(take, notTake);
+
+            prev2 = prev;
+            prev = cur;
         }
 
-        return dp[n-1];
+        return prev;
 
     }
 };

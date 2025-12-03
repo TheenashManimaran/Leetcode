@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/TheenashManimaran/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0645-set-mismatch](https://github.com/TheenashManimaran/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/TheenashManimaran/Leetcode/tree/master/0645-set-mismatch) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## String
 |  |
@@ -105,6 +107,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/TheenashManimaran/Leetcode/tree/master/0645-set-mismatch) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/TheenashManimaran/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -116,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/TheenashManimaran/Leetcode/tree/master/0645-set-mismatch) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/TheenashManimaran/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |

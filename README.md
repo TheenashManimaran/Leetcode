@@ -40,6 +40,7 @@
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TheenashManimaran/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1929-concatenation-of-array](https://github.com/TheenashManimaran/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/TheenashManimaran/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TheenashManimaran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -99,6 +100,7 @@
 | [0011-container-with-most-water](https://github.com/TheenashManimaran/Leetcode/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1448-maximum-69-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheenashManimaran/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
@@ -127,6 +129,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/TheenashManimaran/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/TheenashManimaran/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3748-sort-matrix-by-diagonals](https://github.com/TheenashManimaran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
@@ -189,6 +192,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/TheenashManimaran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/TheenashManimaran/Leetcode/tree/master/0792-binary-search) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -247,6 +251,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/TheenashManimaran/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Trie
 |  |

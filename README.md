@@ -34,6 +34,7 @@
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/TheenashManimaran/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TheenashManimaran/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -110,6 +111,7 @@
 | [0645-set-mismatch](https://github.com/TheenashManimaran/Leetcode/tree/master/0645-set-mismatch) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/TheenashManimaran/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/TheenashManimaran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -122,6 +124,7 @@
 | [0645-set-mismatch](https://github.com/TheenashManimaran/Leetcode/tree/master/0645-set-mismatch) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/TheenashManimaran/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/TheenashManimaran/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TheenashManimaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -281,4 +284,8 @@
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TheenashManimaran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

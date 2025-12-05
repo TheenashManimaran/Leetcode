@@ -36,6 +36,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1242-matrix-block-sum](https://github.com/TheenashManimaran/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/TheenashManimaran/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/TheenashManimaran/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1813-maximum-erasure-value](https://github.com/TheenashManimaran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TheenashManimaran/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/TheenashManimaran/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/TheenashManimaran/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/TheenashManimaran/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -248,6 +250,7 @@
 | [0234-palindrome-linked-list](https://github.com/TheenashManimaran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/TheenashManimaran/Leetcode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/TheenashManimaran/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Prefix Sum
 |  |
 | ------- |

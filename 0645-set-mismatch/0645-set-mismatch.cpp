@@ -4,9 +4,7 @@ public:
 
         int n = nums.size();
         // to check
-        vector<int> arr(n);
-
-        map<int,int> mapp;
+        vector<int> arr(n);  //  hash array
 
         vector<int> ans(2);
         int found = 0;

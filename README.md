@@ -23,6 +23,7 @@
 | [0198-house-robber](https://github.com/TheenashManimaran/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0213-house-robber-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TheenashManimaran/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TheenashManimaran/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/TheenashManimaran/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -109,6 +110,7 @@
 | [0037-sudoku-solver](https://github.com/TheenashManimaran/Leetcode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/TheenashManimaran/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TheenashManimaran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/TheenashManimaran/Leetcode/tree/master/0645-set-mismatch) |
 | [0976-minimum-area-rectangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0976-minimum-area-rectangle) |

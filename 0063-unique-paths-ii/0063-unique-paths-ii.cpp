@@ -1,90 +1,27 @@
 class Solution {
 public:
-    int recur(int i, int j, vector<vector<int>> &mat){
-        /*
-        i - row; j - col
-        */
-        if(i == 0 && j == 0 && mat[i][j] == 0 ){
-            return 1;
-        }
-        if(i < 0 || j < 0) return 0;
-        if(mat[i][j] == 1) return 0;
 
-        int left = recur(i,j - 1,mat);
-        int up = recur(i-1, j,mat);
+    int solve(int r, int c, vector<vector<int>> &grid, vector<vector<int>> &dp){
+        if(r < 0 || c < 0) return 0;
+        if(grid[r][c] == 1) return 0;
+        if(r == 0 && c == 0) return 1;
+        if(dp[r][c] != -1) return dp[r][c];
 
-        return left + up;
+        int up = solve(r-1,c,grid,dp);
+
+        int left = solve(r, c-1, grid,dp);
+
+        return dp[r][c] = left + up;  
     }
-
-    int memoize(int i, int j, vector<vector<int>> &mat, vector<vector<int>> &dp){
-        /*
-        i - row; j - col
-        */
-        if(i == 0 && j == 0 && mat[i][j] == 0 ){
-            return 1;
-        }
-        if(i < 0 || j < 0) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
-        if(mat[i][j] == 1) return dp[i][j] = 0;
-        
-
-        int left = recur(i,j - 1,mat);
-        int up = recur(i-1, j,mat);
-
-        return dp[i][j] = left + up;
-    }
-
-    int tabulate(int m, int n, vector<vector<int>> &mat, vector<vector<int>> &dp){
-
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(mat[i][j] == 1) dp[i][j] = 0;
-                else if(i == 0 && j == 0) dp[i][j] = 1;
-                else{
-                    int left = 0, up = 0;
-                    if(j > 0) left = dp[i][j-1];
-                    if(i > 0) up = dp[i-1][j];
-                    dp[i][j] = left + up;
-                }
-            }
-
-        }
-
-        return dp[m-1][n-1];
-    }
-
-    int spaceOpt(int m, int n, vector<vector<int>> &mat){
-        vector<int> prev(n);
-        for(int i=0;i<m;i++){
-            vector<int> temp(n);
-            for(int j=0;j<n;j++){
-                if(mat[i][j] == 1) temp[j] = 0;
-                else if(i == 0 && j == 0) temp[j] = 1;
-                else{
-                    int left = 0, up = 0;
-                    if(j > 0) left = temp[j-1];
-                    if(i > 0) up = prev[j];
-                    temp[j] = left + up;
-                }
-            }
-            prev = temp;
-        }
-
-        return prev[n-1];
-    }
-
+    
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m = obstacleGrid.size();
-        int n = obstacleGrid[0].size();
+        int m = obstacleGrid.size(); // row
+        int n = obstacleGrid[0].size(); // col
 
-        vector<vector<int>> dp(m, vector<int>(n,-1));
+        vector<vector<int>> dp(m, vector<int>(n, -1));
 
-        //return recur(m-1, n-1, obstacleGrid);
+        int ans = solve(m-1, n-1, obstacleGrid, dp);
 
-        //return memoize(m-1, n-1, obstacleGrid, dp);
-
-        //return tabulate(m, n, obstacleGrid, dp);
-
-        return spaceOpt(m, n, obstacleGrid);
+        return ans;
     }
 };

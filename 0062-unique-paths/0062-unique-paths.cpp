@@ -1,24 +1,25 @@
 class Solution {
 public:
     
-    int solve(int r, int c, int m, int n, vector<vector<int>> &dp){
-        if(r == m-1 && c == n-1){
-            return 1;
-        }
+    int solve(int r, int c, vector<vector<int>> &dp){
+        if(r == 0 && c == 0) return 1;
+        if(r < 0 || c < 0) return 0;
         if(dp[r][c] != -1) return dp[r][c];
 
-        
-        int down = 0, right = 0;
-        if(r < m-1) down = solve(r+1,c,m,n, dp);
+        int up = solve(r-1,c,dp);
 
-        if(c < n-1) right = solve(r, c+1,m,n, dp);
+        int left = solve(r, c-1, dp);
 
-        return dp[r][c] = down + right;
+        return dp[r][c] = up + left;
+
     }
 
     int uniquePaths(int m, int n) {
         vector<vector<int>> dp(m, vector<int>(n, -1));
 
-        return solve(0,0,m,n, dp);
+        int ans = solve(m-1,n-1, dp);
+        return ans;
+
+        
     }
 };

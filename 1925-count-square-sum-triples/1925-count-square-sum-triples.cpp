@@ -3,17 +3,30 @@ public:
     int countTriples(int n) {
         
         int count = 0;
-        for(int i = 3; i<n;i++){
-            for(int j=3;j<n;j++){
-                for(int k = 5;k<=n;k++){
-                    if((i * i) + (j*j) == (k*k)) {
-                        count+=1;
-                        //cout<<i<<" "<<j<<" "<<k<<endl;
-                    }
-                    
+        
+        // c = 1..n
+
+        for(int c = 1;c<=n;c++){
+            // to find a^2 + b^2 = c^2
+            int target = c*c;
+            int l = 1, r = c-1;
+
+            while(l < r){
+                int sum = (l*l) + (r*r);
+                if(sum == target){
+                    count+=2;
+                    l++;
+                    r--;
+                }
+                else if(sum < target){
+                    l++;
+                }
+                else{
+                    r--;
                 }
             }
         }
+        return count;
 
         return count;
     }

@@ -19,6 +19,7 @@
 | [0118-pascals-triangle](https://github.com/TheenashManimaran/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TheenashManimaran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheenashManimaran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TheenashManimaran/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheenashManimaran/Leetcode/tree/master/0213-house-robber-ii) |
@@ -152,6 +153,7 @@
 | [0002-add-two-numbers](https://github.com/TheenashManimaran/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/TheenashManimaran/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TheenashManimaran/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheenashManimaran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TheenashManimaran/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TheenashManimaran/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheenashManimaran/Leetcode/tree/master/0326-power-of-three) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheenashManimaran/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheenashManimaran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TheenashManimaran/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/TheenashManimaran/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TheenashManimaran/Leetcode/tree/master/0234-palindrome-linked-list) |

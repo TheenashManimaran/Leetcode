@@ -164,6 +164,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/TheenashManimaran/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/TheenashManimaran/Leetcode/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/TheenashManimaran/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/TheenashManimaran/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TheenashManimaran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/TheenashManimaran/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -301,4 +302,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheenashManimaran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/TheenashManimaran/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->

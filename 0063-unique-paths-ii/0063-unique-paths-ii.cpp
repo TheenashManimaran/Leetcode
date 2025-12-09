@@ -14,34 +14,31 @@ public:
         return dp[r][c] = left + up;  
     }
     
-    // tabulation....
+    // Space Optimization....
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size(); // row
         int n = obstacleGrid[0].size(); // col
 
-        vector<vector<int>> dp(m, vector<int>(n, 0));
+        vector<int> prev(n);
+
 
         for(int i=0;i<m;i++){
+            vector<int> cur(n);
             for(int j=0;j<n;j++){
-                if(obstacleGrid[i][j] == 1) {dp[i][j] = 0; continue;}
-                if(i == 0 && j == 0) dp[i][j] = 1;
+                if(obstacleGrid[i][j] == 1) {cur[j] = 0; continue;}
+                if(i == 0 && j == 0) cur[j] = 1;
                 else{
                     int left = 0, up = 0;
 
-                    if(j > 0) left = dp[i][j-1];
-                    if(i > 0) up = dp[i-1][j]; 
+                    if(j > 0) left = cur[j-1];
+                    if(i > 0) up = prev[j]; 
 
-                    dp[i][j] = left + up;
+                    cur[j] = left + up;
                 }
             }
+            prev = cur;
         }
 
-        // for(auto i: dp){
-        //     for(auto j:i){
-        //         cout<<j<<" ";
-        //     }cout<<endl;
-        // }cout<<endl;
-
-        return dp[m-1][n-1];
+        return prev[n-1];
     }
 };

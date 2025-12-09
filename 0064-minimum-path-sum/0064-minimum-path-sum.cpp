@@ -1,35 +1,27 @@
 class Solution {
 public:
-    // recursive solution
 
-    int func(int i,int j, int n, int m, vector<vector<int>> &grid){
-        if(j > m - 1 || i > n-1) return 1e4;
-        if(i == n-1 && j == m-1) return grid[i][j];
+    int solve(int r, int c, vector<vector<int>> &grid, vector<vector<int>> &dp){
+        if(r < 0 || c < 0) return 1e9;
+        if(r == 0 && c == 0) return grid[r][c];
+        if(dp[r][c] != -1) return dp[r][c];
 
-        int right = grid[i][j] + func(i, j+1, n, m, grid);
-        int down = grid[i][j] + func(i+1, j, n, m, grid);
+        int up, left;
 
-        return min(right, down);
-    }
+        up = solve(r-1, c, grid, dp) + grid[r][c];
+        left = solve(r, c-1, grid, dp) + grid[r][c];
 
-    int memoize(int i,int j, int n, int m, vector<vector<int>> &grid, vector<vector<int>> &dp){
-        if(j > m - 1 || i > n-1) return 1e9;
-        if(i == n-1 && j == m-1) return grid[i][j];
-        if(dp[i][j] != -1) return dp[i][j];
-
-        int right = grid[i][j] + memoize(i, j+1, n, m, grid, dp);
-        int down = grid[i][j] + memoize(i+1, j, n, m, grid, dp);
-
-        return dp[i][j] = min(right, down);
+        return dp[r][c] = min(up , left);
     }
 
     int minPathSum(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        
-        vector<vector<int>> dp(n, vector<int>(m, -1));
+        int m = grid.size();
+        int n = grid[0].size();
 
-        int ans = memoize(0,0,n,m,grid,dp);
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+
+        int ans = solve(m-1, n-1, grid, dp);
+
         return ans;
     }
 };

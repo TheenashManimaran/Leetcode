@@ -22,29 +22,32 @@ public:
 
         //int ans = solve(0,0,triangle,n,dp);
 
-        dp[0][0] = triangle[0][0];
+        vector<int> prev(n, 0), cur(n, 0);
+
+        prev[0] = triangle[0][0];
 
         for(int r=1;r<n;r++){
             for(int c=0;c<=r;c++){
                 int up = INT_MAX, upleft = INT_MAX;
 
                 if(c == r){
-                    upleft = dp[r-1][c-1] + triangle[r][c];
+                    upleft = prev[c-1] + triangle[r][c];
                 }
                 else if(c == 0){
-                    up = dp[r-1][c] + triangle[r][c];
+                    up = prev[c] + triangle[r][c];
                 }
                 else{
-                    upleft = dp[r-1][c-1] + triangle[r][c];
-                    up = dp[r-1][c] + triangle[r][c];
+                    upleft = prev[c-1] + triangle[r][c];
+                    up = prev[c] + triangle[r][c];
                 }
 
-                dp[r][c] = min(upleft, up);
+                cur[c] = min(upleft, up);
             }
+            prev = cur;
         }
         int mini = INT_MAX;
         for(int i=0;i<n;i++){
-            mini = min(mini, dp[n-1][i]);
+            mini = min(mini, prev[i]);
         }
 
         return mini;

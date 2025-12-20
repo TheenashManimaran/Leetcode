@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        map<int,int> mapp;
+        unordered_map<int,int> mapp;
         int n = nums.size();
 
         int cnt = 0;
